@@ -56,7 +56,8 @@ print ( "Antonyms : " ,set(antonyms) )
 ```
 Enter a sentence: Old men dislike hot summer
 ```
-```[('Old', 'NNP'), ('men', 'NNS'), ('dislike', 'VB'), ('hot', 'JJ'), ('summer', 'NN')]
+```
+[('Old', 'NNP'), ('men', 'NNS'), ('dislike', 'VB'), ('hot', 'JJ'), ('summer', 'NN')]
 ```
 ```Synonyms :  {'summer', 'one-time', 'previous', "gentleman's_gentleman", 'mankind', 'summertime', 'erstwhile', 'gentleman',
 'blistering', 'live', 'honest-to-god', 'dislike', 'red-hot', 'Old', 'human_beings', 'disfavor', 'valet_de_chambre',
